@@ -26,7 +26,7 @@ const Latest = () => {
   })
   return (
     <section className='bg-black img-box'>
-      <Image className='img' src='/mahraFooter.png' width={0} height={0} style={{ width: '100%', height: 'auto', objectFit: 'contain' }} sizes="100vw" />
+      <Image className='img' alt='lol' src='/mahraFooter.png' width={0} height={0} style={{ width: '100%', height: 'auto', objectFit: 'contain' }} sizes="100vw" />
     </section>
   )
 }
